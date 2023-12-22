@@ -12,7 +12,9 @@ nltk:path specifies the file stored in the NLTK data package at "path". NLTK wil
 
 ## Final output
 
-![Screenshot of the final output of offline dictionary](./dictionary/demo.png)
+<p float="left">
+    <img src="./dictionary/demo.png" width="80%" />
+</p>
 
 ## Prerequisites 
 
