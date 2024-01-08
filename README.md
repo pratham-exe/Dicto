@@ -10,12 +10,6 @@ Natural language toolkit (nltk) is used to find out the synonym and antonym of a
 
 nltk:path specifies the file stored in the NLTK data package at "path". NLTK will search for these files in the directories specified by 'nltk.data.path'
 
-## Final output
-
-<p float="left">
-    <img src="./dictionary/demo.png" width="80%" />
-</p>
-
 ## Prerequisites 
 
 - tkinter (python gui) 
